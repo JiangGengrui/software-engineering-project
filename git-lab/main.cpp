@@ -14,5 +14,6 @@ int main() {
     std::cout << "Sum: " << sum << '\n';
     std::cout << "(checked by JiangGengrui)\n";
     std::cout << "Author: JiangGengrui\n";
+    std::cout << "Author: Li Wenjun\n";
     return 0;
 }
