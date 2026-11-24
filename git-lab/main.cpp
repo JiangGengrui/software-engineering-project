@@ -13,5 +13,6 @@ int main() {
     const long long sum = static_cast<long long>(first) + second;
     std::cout << "Sum: " << sum << '\n';
     std::cout << "(checked by JiangGengrui)\n";
+    std::cout << "Author: JiangGengrui\n";
     return 0;
 }
